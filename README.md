@@ -5,7 +5,7 @@
 - Estudo na escola MAV (Maria Aparecida Veríssimo Madureira Ramos).
 - Meu lema é LEV... (Livre Espontânea Vontade)
 
-Fora essas coisas essenciais para me conhecerem, eu vou só explicar o porque eu estou aqui.
+**Fora essas coisas essenciais para me conhecerem, eu vou só explicar o porque eu estou aqui.**
 - Eu sou aluno alura, portanto eu estou estudante Java Scripp
 
 É isso né, fazer o que? Não sou muito bom com esse tipo de texto. Valeu falou
